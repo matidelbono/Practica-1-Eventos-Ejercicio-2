@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\logica.dll
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\logica.pdb
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\Usuario\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
